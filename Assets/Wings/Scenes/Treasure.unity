@@ -1080,151 +1080,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 412191091}
   m_CullTransparentMesh: 1
---- !u!1001 &503517919
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 738191931}
-    m_Modifications:
-    - target: {fileID: 132078, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_Name
-      value: CF2-DuakStick-Rig
-      objectReference: {fileID: 0}
-    - target: {fileID: 132078, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 139860, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 172474, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 173380, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 439114, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_RootOrder
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 439114, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 439114, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 439114, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 439114, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 439114, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 439114, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 439114, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 439114, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 439114, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 439114, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 11406764, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: spriteNeutral.color.a
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 11413392, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: fadeOutWhenReleased
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 11413392, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: disablingConditions.disableWhenTouchScreenInactive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 11442006, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: disablingConditions.disableWhenTouchScreenInactive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 22378924, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_SortingOrder
-      value: -1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22426420, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 11
-      objectReference: {fileID: 0}
-    - target: {fileID: 22434980, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -34
-      objectReference: {fileID: 0}
-    - target: {fileID: 22434980, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -151
-      objectReference: {fileID: 0}
-    - target: {fileID: 22476466, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 32
-      objectReference: {fileID: 0}
-    - target: {fileID: 22476466, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -32.25
-      objectReference: {fileID: 0}
-    - target: {fileID: 22480066, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22480066, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_AnchorMin.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 22480066, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 484
-      objectReference: {fileID: 0}
-    - target: {fileID: 22480066, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -78
-      objectReference: {fileID: 0}
-    - target: {fileID: 22480066, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -18
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 219488329a9fc36498c8e424075f5a1c, type: 3}
---- !u!4 &503517920 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 439114, guid: 219488329a9fc36498c8e424075f5a1c,
-    type: 3}
-  m_PrefabInstance: {fileID: 503517919}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &503517921 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 132078, guid: 219488329a9fc36498c8e424075f5a1c,
-    type: 3}
-  m_PrefabInstance: {fileID: 503517919}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &581431192
 GameObject:
   m_ObjectHideFlags: 0
@@ -1424,7 +1279,6 @@ Transform:
   - {fileID: 756947059}
   - {fileID: 1627812820}
   - {fileID: 1043388768}
-  - {fileID: 503517920}
   m_Father: {fileID: 0}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -8920,7 +8774,7 @@ MonoBehaviour:
     _prefab: Assets/Wings/Prefabs/GameButtons.prefab
   - _gameObject: {fileID: 0}
     _prefab: Assets/Plugins/Control-Freak-2/Prefabs/Other/CF2-Gamepad-Notifier.prefab
-  - _gameObject: {fileID: 503517921}
+  - _gameObject: {fileID: 0}
     _prefab: Assets/Plugins/Control-Freak-2/Prefabs/Rigs/Other/CF2-DuakStick-Rig.prefab
 --- !u!4 &1574852879
 Transform:
@@ -14127,7 +13981,7 @@ MonoBehaviour:
   disable: 0
   targetImageWings: {fileID: 820289858}
   trackedImage: {fileID: 0}
-  moveControler: {fileID: 503517921}
+  moveControler: {fileID: 0}
   colorIndi: {fileID: 0}
   distanceToTarget: 0
   modelPlaced: 0
