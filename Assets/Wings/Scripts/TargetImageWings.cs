@@ -25,6 +25,7 @@ public class TargetImageWings : MonoBehaviour
     public ObjectSpawner objectSpawner;
     public bool skipRiddle, solo;
     public Button nextLvl;
+    public bool treasure;
     private void Start()
     {
         if(nextLvl != null)
@@ -82,7 +83,7 @@ public class TargetImageWings : MonoBehaviour
 
         //Model.SetActive(true);
         gameButtons.SetActive(true);
-        nextLvl.interactable = true;
+        if(!treasure) nextLvl.interactable = true;
 
         if (gameManagerWings != null)
             gameManagerWings.GetComponent<GameManagerWings>().ImageDetected(imageName, Model.transform.position, gameObject);
