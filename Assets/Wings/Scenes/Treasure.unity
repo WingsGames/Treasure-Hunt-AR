@@ -2480,17 +2480,27 @@ PrefabInstance:
     - target: {fileID: 4427522723742954571, guid: 2a36b59d1ffa85e41b3e8e5f7cd4f731,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: -1
+      value: 0.9888865
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427522723742954571, guid: 2a36b59d1ffa85e41b3e8e5f7cd4f731,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4427522723742954571, guid: 2a36b59d1ffa85e41b3e8e5f7cd4f731,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.00000020861623
+      value: -0.14867245
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427522723742954571, guid: 2a36b59d1ffa85e41b3e8e5f7cd4f731,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4427522723742954571, guid: 2a36b59d1ffa85e41b3e8e5f7cd4f731,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: -17.1
       objectReference: {fileID: 0}
     - target: {fileID: 4579486155549539431, guid: 2a36b59d1ffa85e41b3e8e5f7cd4f731,
         type: 3}
@@ -13781,6 +13791,7 @@ MonoBehaviour:
   modelPlaced: 0
   attachedToPlane: 0
   planeDetectorAnimator: {fileID: 756947065}
+  aRTrackedImageManager: {fileID: 0}
   hitPos: {x: 0, y: 0, z: 0}
 --- !u!1 &1835185768
 GameObject:
