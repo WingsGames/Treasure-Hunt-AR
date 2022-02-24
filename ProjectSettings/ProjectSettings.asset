@@ -161,10 +161,10 @@ PlayerSettings:
     iPhone: com.Nogili.TreasureHunt
   buildNumber:
     Standalone: 0
-    iPhone: 13
+    iPhone: 15
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1
-  AndroidBundleVersionCode: 14
+  AndroidBundleVersionCode: 15
   AndroidMinSdkVersion: 24
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
