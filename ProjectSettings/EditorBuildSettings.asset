@@ -168,10 +168,6 @@ EditorBuildSettings:
     path: Assets/Scenes/SimpleAR/SimpleAR.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
-    AR Foundation RemoteARFoundationRemoteLoaderSettings: {fileID: 11400000, guid: 3919c5d806eca7f4282701914db9a5e0,
-      type: 2}
-    AR Foundation RemoteARFoundationRemoteSessionRecordsData: {fileID: 11400000, guid: 0d2a949346810cc4ba9320fcbea4eaa3,
-      type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f8ce26fe3bc69499b9be4b2378e97a94,
       type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 98c79e8cc22674a89a95a3a90e2b70cb,

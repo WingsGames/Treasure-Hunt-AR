@@ -1,11 +1,4 @@
-// AR_FOUNDATION_EDITOR_REMOTE: fix for Editor applied
-#if UNITY_EDITOR
-    #define IS_EDITOR
-#endif
-#undef UNITY_EDITOR
-using ARFoundationRemote.Runtime;
-// AR_FOUNDATION_EDITOR_REMOTE***
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using Unity.Collections;
 using UnityEngine;
 using UnityEngine.XR.ARFoundation;
@@ -16,12 +9,6 @@ using UnityEngine.XR.ARKit;
 
 namespace UnityEngine.XR.ARFoundation.Samples
 {
-    // AR_FOUNDATION_EDITOR_REMOTE: fix for Editor applied
-    #if IS_EDITOR
-    using ARKitFaceSubsystem = ARFoundationRemote.Runtime.FaceSubsystem;
-    #endif
-    // AR_FOUNDATION_EDITOR_REMOTE***
-
     /// <summary>
     /// Populates the action unit coefficients for an <see cref="ARFace"/>.
     /// </summary>
