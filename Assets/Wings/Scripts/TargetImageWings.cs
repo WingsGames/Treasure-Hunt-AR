@@ -232,6 +232,7 @@ public class TargetImageWings : MonoBehaviour
         yield return new WaitForSeconds(1.5f);
         Debug.Log("scroll.SetActive(false)");
         objectSpawner.disable = false;
+        objectSpawner.aRTrackedImageManager.enabled = true;
         scroll.SetActive(false);
         scrollBG.SetActive(false);
 
