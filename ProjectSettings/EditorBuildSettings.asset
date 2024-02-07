@@ -87,29 +87,29 @@ EditorBuildSettings:
     path: Assets/Scenes/EnvironmentProbes.unity
     guid: d568d188cadf141e38769dbabd3fe385
   - enabled: 0
-    path: Assets/Scenes/FaceTracking/ARCoreFaceRegions.unity
-    guid: d1739ac106ca65e4b83528a440314bd9
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/FaceTracking/ARKitFaceBlendShapes.unity
-    guid: e9280441e79e84bdbbf6b724880ae2d9
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/FaceTracking/EyeLasers.unity
-    guid: c8ca2b95503fe4a7194f37bfbe5e4688
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/FaceTracking/EyePoses.unity
-    guid: 19344822e252a420e94db72338383cbc
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/FaceTracking/FaceMesh.unity
-    guid: 6dd901454502546c88b6cf8b9f47ded0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/FaceTracking/FacePose.unity
-    guid: d8b65509a10894e1dbb93c799ececfd9
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/FaceTracking/FixationPoint.unity
-    guid: b0bf27dc892684a049959459ba5e6f8f
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/FaceTracking/WorldCameraWithUserFacingFaceTracking.unity
-    guid: ecea31d2ea5464e52bedb91fa1fcb6bb
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: Assets/Scenes/HumanTracking/HumanBodyTracking2D.unity
     guid: b2551dd1f69e7446e9093f0f38e03160
