@@ -136,8 +136,16 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 1.31
+  bundleVersion: 1.4
   preloadedAssets:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
@@ -164,10 +172,11 @@ PlayerSettings:
   m_ColorGamuts: 00000000
   targetPixelDensity: 30
   resolutionScalingMode: 0
+  resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.Nogili.TreasureHunt
+    Android: com.Nogili.TreasureHunt2
     Standalone: com.unity.arfoundation.samples
     iPhone: com.Nogili.TreasureHunt
   buildNumber:
@@ -175,7 +184,7 @@ PlayerSettings:
     iPhone: 17
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1
-  AndroidBundleVersionCode: 25
+  AndroidBundleVersionCode: 26
   AndroidMinSdkVersion: 24
   AndroidTargetSdkVersion: 34
   AndroidPreferredInstallLocation: 1
@@ -262,8 +271,8 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: '{dedicated}: Dropbox/TreasureHunt.keystore'
-  AndroidKeyaliasName: treasure hunt
+  AndroidKeystoreName: C:/Users/amitc/Dropbox (WingsGames)/KeyStores/TreasureHunt.keystore
+  AndroidKeyaliasName: treasurehunt2
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
@@ -862,6 +871,7 @@ PlayerSettings:
   metroFTAName: 
   metroFTAFileTypes: []
   metroProtocolName: 
+  vcxProjDefaultLanguage: 
   XboxOneProductId: 
   XboxOneUpdateKey: 
   XboxOneSandboxId: 
